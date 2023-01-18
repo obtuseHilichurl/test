@@ -1,0 +1,2 @@
+本仓库存放部分学习笔记和python程序
+笔记在note文件夹中，python程序在code文件夹中
